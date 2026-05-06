@@ -61,6 +61,15 @@ I care about writing **clean, maintainable code** and delivering smooth user exp
 
 ---
 
+## 📄 My Resume  
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1UuafEqq9-lM3gVofyNO4tTL3iT4JeZoV">
+    <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
+---
+
 ## ✨  
 
 > Clean code always wins 💙  
